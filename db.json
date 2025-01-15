@@ -1,0 +1,25 @@
+{
+  "scores": [
+    {},
+    {
+      "id": "5526",
+      "playerName": "user1",
+      "score": 3
+    },
+    {
+      "id": "ec31",
+      "playerName": "user2",
+      "score": 3
+    },
+    {
+      "id": "6354",
+      "playerName": "user3",
+      "score": 5
+    },
+    {
+      "id": "be72",
+      "playerName": "user4",
+      "score": 1
+    }
+  ]
+}
